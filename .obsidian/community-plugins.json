@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "mdx-as-md-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-filename-heading-sync"
 ]
